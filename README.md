@@ -6,17 +6,17 @@
 
 ---
 
-🎓 **PhD in Mathematics** | 💼 Aspiring Data Scientist | 📍 Based in Barcelona, Spain  
+🎓 **PhD Candidate in Mathematics** | 💼 Aspiring Data Scientist | 📍 Based in Barcelona, Spain  
 🔍 Interested in Data Science, AI, and Scientific Computing  
 
 ---
 
 ## 🔧 Tech Stack
 
-- 🐍 Python (NumPy, pandas, matplotlib, scikit-learn)
+- 🐍 Python (NumPy, pandas, matplotlib, seaborn, beautifulsoup, requests, sqlite3, scikit-learn)
 - 📊 Jupyter Notebook, VS Code
-- 🌐 HTML / CSS (basic)
-- 🛠 Git, GitHub
+- 🌐 HTML (basics), MATLAB
+- 🛠 GitHub, Latex
 
 ---
 

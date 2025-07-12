@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sheraz 👋</h1>
 
-<!--
-**sheraz-ahmed-khan/sheraz-ahmed-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheraz&style=flat-square" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **PhD in Mathematics** | 💼 Aspiring Data Scientist | 📍 Based in Barcelona, Spain  
+🔍 Interested in Data Science, AI, and Scientific Computing  
+
+---
+
+## 🔧 Tech Stack
+
+- 🐍 Python (NumPy, pandas, matplotlib, scikit-learn)
+- 📊 Jupyter Notebook, VS Code
+- 🌐 HTML / CSS (basic)
+- 🛠 Git, GitHub
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheraz&show_icons=true&theme=default" />
+</p>

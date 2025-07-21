@@ -1,11 +1,5 @@
 <h1 align="center">Hi, I'm Sheraz 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheraz&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
 🎓 **PhD Candidate in Mathematics** | 💼 Aspiring Data Scientist | 📍 Based in Barcelona, Spain  
 🔍 Interested in Data Science, AI, and Scientific Computing  
 

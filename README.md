@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sheraz 👋</h1>
 
-🎓 **PhD Candidate in Mathematics** | 💼 Aspiring Data Scientist | 📍 Based in Barcelona, Spain  
+🎓 **PhD Researcher in Mathematics** | 💼 Data Scientist | 📍 Based in Barcelona, Spain  
 🔍 Interested in Data Science, AI, and Scientific Computing  
 
 ---
@@ -9,8 +9,8 @@
 
 - 🐍 Python (NumPy, pandas, matplotlib, seaborn, beautifulsoup, requests, sqlite3, scikit-learn)
 - 📊 Jupyter Notebook, VS Code
-- 🌐 HTML (basics), MATLAB
-- 🛠 GitHub, Latex
+- 🌐 MATLAB
+- 🛠 GitHub, Latex, Linux
 
 ---
 

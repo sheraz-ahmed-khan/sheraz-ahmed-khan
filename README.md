@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sheraz 👋</h1>
 
-🎓 **PhD Researcher in Mathematics** | 💼 Data Scientist | 📍 Based in Barcelona, Spain  
+🎓 **PhD Researcher in Mathematics** | 💼 CIMNE, UPC  | 📍 Based in Barcelona, Spain  
 🔍 Interested in Data Science, AI, and Scientific Computing  
 
 ---

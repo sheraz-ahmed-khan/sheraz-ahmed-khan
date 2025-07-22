@@ -9,7 +9,7 @@
 
 - 🐍 Python (NumPy, pandas, matplotlib, seaborn, beautifulsoup, requests, sqlite3, scikit-learn)
 - 📊 Jupyter Notebook, VS Code
-- 🌐 MATLAB
+- 🌐 MATLAB, SQL
 - 🛠 GitHub, Latex, Linux
 
 ---

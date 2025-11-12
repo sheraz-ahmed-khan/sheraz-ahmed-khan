@@ -7,10 +7,10 @@
 
 ## 🔧 Tech Stack
 
-- 🐍 Python (NumPy, pandas, matplotlib, seaborn, beautifulsoup, requests, sqlite3, scikit-learn)
-- 📊 Jupyter Notebook, VS Code
+- 🐍 Python (NumPy, pandas, matplotlib, seaborn, beautifulsoup, requests, sqlite3, scikit-learn, plotly, SciPy, KNN, SVM, XGBoost)
+- 📊 Jupyter Notebook, VS Code, Power BI
 - 🌐 MATLAB, SQL
-- 🛠 GitHub, Latex, Linux
+- 🛠 GitHub, Latex, Linux, AWS
 
 ---
 
